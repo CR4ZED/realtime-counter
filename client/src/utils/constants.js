@@ -1,0 +1,7 @@
+const SOCKET_EVENTS = {
+    'UPDATE_COUNT':'UPDATE_COUNT'
+}
+
+export {
+    SOCKET_EVENTS
+}
