@@ -10,6 +10,9 @@ A realtime counter application made with react and socket.io
 
 **Server:** Node, Express, socket.io
 
+The state of the count is stored in the localstorage so that when a user closes and reopens the browser the value of count is initialized to the previous state. 
+
+Websocket is used to make realtime updates to the count value
 
 ## Run Locally
 
