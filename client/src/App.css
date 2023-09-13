@@ -5,3 +5,10 @@
   text-align: center;
 }
 
+.count {
+  display:flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
